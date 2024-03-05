@@ -1,0 +1,14 @@
+
+<Human
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.backbone.test.carmodeler.Human"
+	RuntimeDocumentID="00505601-2CB9-A1EE-B6B4-057214D58191">
+	<DocumentID>00505601-2CB9-A1EE-B6B4-057214D54191</DocumentID>
+	<Name>Sumita</Name>
+	<Description>Sumita</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-03-05T09:13:03.054</CreationDate>
+	<Notes/>
+	<Age>23</Age>
+	<SecondName>P</SecondName>
+</Human>

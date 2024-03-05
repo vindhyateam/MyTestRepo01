@@ -1,0 +1,71 @@
+
+<Car
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.backbone.test.carmodeler.Car"
+	RuntimeDocumentID="00505601-2CB9-A1EE-B6B4-057214DA4191">
+	<DocumentID>00505601-2CB9-A1EE-B6B4-057214DA0191</DocumentID>
+	<Name>Ferarri</Name>
+	<Description>Ferarri</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-03-05T09:12:40.487</CreationDate>
+	<Notes/>
+	<AdmissionDate></AdmissionDate>
+	<ExposeForReuse>false</ExposeForReuse>
+	<LastServiceDateTime></LastServiceDateTime>
+	<NumberPlate></NumberPlate>
+	<AdmissionDateFormat>
+		<DateFormat
+			type="com.cordys.entity.common.format.datetime.DateFormat"
+			RuntimeDocumentID="00505601-2CB9-A1EE-B6B4-057214D9C191">
+			<DocumentID>00505601-2CB9-A1EE-B6B4-057214D98191</DocumentID>
+			<Name>Admission Date Format</Name>
+			<Description>Admission Date Format</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-03-05T09:12:40.488</CreationDate>
+			<Notes/>
+			<FormatPattern></FormatPattern>
+			<FormatType>Short</FormatType>
+		</DateFormat>
+	</AdmissionDateFormat>
+	<Driver>
+		<uri
+			id="00505601-2CB9-A1EE-B6B4-057214D54191"
+		/>
+	</Driver>
+	<LastServiceDateTimeFormat>
+		<DateTimeFormat
+			type="com.cordys.entity.common.format.datetime.DateTimeFormat"
+			RuntimeDocumentID="00505601-2CB9-A1EE-B6B4-057214D94191">
+			<DocumentID>00505601-2CB9-A1EE-B6B4-057214D90191</DocumentID>
+			<Name>Last Service Date Time Format</Name>
+			<Description>Last Service Date Time Format</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-03-05T09:12:40.487</CreationDate>
+			<Notes/>
+			<FormatPattern></FormatPattern>
+			<FormatType>Short</FormatType>
+		</DateTimeFormat>
+	</LastServiceDateTimeFormat>
+	<Passengers/>
+	<Spare/>
+	<TranslatableName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00505601-2CB9-A1EE-B6B4-057214D6C191">
+			<DocumentID>00505601-2CB9-A1EE-B6B4-057214D68191</DocumentID>
+			<Name>00505601-2CB9-A1EE-B6B4-057214D68191</Name>
+			<Description>00505601-2CB9-A1EE-B6B4-057214D68191</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-03-05T09:12:40.487</CreationDate>
+			<Notes/>
+			<DeveloperText>Untitled Car</DeveloperText>
+			<Identifier>
+				<uri
+					id="00505601-2CB9-A1EE-B6B4-057214D70191"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</TranslatableName>
+	<Wheel/>
+</Car>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2CB9-A1EE-B6B4-057214D74191">
+	<DocumentID>00505601-2CB9-A1EE-B6B4-057214D70191</DocumentID>
+	<Name>00505601-2CB9-A1EE-B6B4-057214D70191</Name>
+	<Description>Untitled Car</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-03-05T09:12:40.487</CreationDate>
+	<Notes/>
+	<DefaultText>Untitled Car</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="002B6743-E3EE-A1EE-ABE4-DC0B9A704827"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2CB9-A1EE-B6B4-057214D78191"
+		/>
+	</Translations>
+</TextIdentifier>
